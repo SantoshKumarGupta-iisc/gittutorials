@@ -134,18 +134,3 @@ Always rotate your keys if accidentally exposed.
 
 ---
 
-## 📃 License
-
-This project is open-sourced under the MIT License.
-
----
-
-## 🙋‍♂️ Contributing
-
-Pull requests welcome! For major changes, open an issue first.
-
----
-
-## 👨‍💻 Author
-
-Built by [Your Name] · [LinkedIn](https://linkedin.com/in/yourname) · [Twitter](https://twitter.com/yourhandle)
